@@ -9,6 +9,14 @@ Bienvenue dans mon petit jardin digital.
 
 19 h 45
 
+QQQ à celui qui le lit
+
+
+
+
+
+
+
 
 
 Je note donc je suis © 2025 by Baudouin Van Humbeeck est publié sous licence Creative Commons CC BY-NC-SA 4.0 - 
