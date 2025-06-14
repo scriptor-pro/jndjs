@@ -1,6 +1,6 @@
 ---
 title: Je note donc je suis
-tags: [digital-garden]
+
 description: il faut bien commencer un jardin digital quelque part
 ---
 # je note donc je suis
