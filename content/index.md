@@ -1,15 +1,13 @@
 ---
 title: Je note donc je suis
 tags: [digital-garden]
+description: il faut bien commencer un jardin digital quelque part
 ---
 # je note donc je suis
 
-Bienvenue dans mon petit jardin digital.
+Bienvenue dans mon petit jardin digital. 🏡
 
 
-19 h 45
-
-QQQ à celui qui le lit
 
 
 
